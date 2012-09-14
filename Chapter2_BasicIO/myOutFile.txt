@@ -1,0 +1,4 @@
+Hallo das ist eine text Datei.
+Bei diesem Programm wird die Anzahl
+der Worter gezaehlt und zurueckgegeben.
+Ende.
