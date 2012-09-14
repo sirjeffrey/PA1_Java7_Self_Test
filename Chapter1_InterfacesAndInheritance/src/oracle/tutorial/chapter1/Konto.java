@@ -11,7 +11,7 @@ public class Konto {
 		saldo = 0.0;
 	}
 
-	public int getKontonummer() {
+	public int getKontonuummer() {
 		return kontonummer;
 	}
 
